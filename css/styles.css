@@ -1,0 +1,17 @@
+
+.image {
+  width: 33%;
+  float: left;
+}
+
+.sidebar {
+  width: 33%;
+  text-align: center;
+  float: right;
+  background-color: #EFEEE9;
+}
+
+.column {
+  clear: left;
+  padding-top: 30px;
+}
