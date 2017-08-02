@@ -2,11 +2,14 @@
 .image {
   width: 33%;
   float: left;
+  padding: 10px;
 }
 
 .sidebar {
   width: 33%;
   text-align: center;
+  border: 2px solid grey;
+  padding: 10px;
   float: right;
   background-color: #EFEEE9;
 }
@@ -14,4 +17,8 @@
 .column {
   clear: left;
   padding-top: 30px;
+}
+
+img {
+  border: 2px solid grey;
 }
